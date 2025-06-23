@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Hamza</title>
+    <link>https://hamza-ru.github.io/en/tags/academic/</link>
+      <atom:link href="https://hamza-ru.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamza-ru.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://hamza-ru.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Week 5</title>
+      <link>https://hamza-ru.github.io/en/post/05/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-week-5--june-17-to-june-23&#34;&gt;📒 Week 5 — June 17 to June 23&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Exams! Programming, Math Analysis, and Logic&lt;/p&gt;
+&lt;p&gt;This was the most intense week so far: three exams — one each day. In Programming, we were given a task involving list processing and recursion. I passed with an “excellent” because I solved it using a loop and added an alternative version.&lt;/p&gt;
+&lt;p&gt;In Mathematical Logic, truth tables saved the day again — we had to prove an implication. I got a bit confused at first but managed to correct it and pass.&lt;/p&gt;
+&lt;p&gt;Math Analysis was the toughest: problems on finding maximums, minimums, and identifying points of discontinuity. I passed with a “good,” but it was close.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🎉 First exam session is over! Summer lies ahead, but I’m already making plans to dive deeper into C++ and algorithm studies.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 4</title>
+      <link>https://hamza-ru.github.io/en/post/04/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4--june-10-to-june-16&#34;&gt;📕 Week 4 — June 10 to June 16&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Programming Practice, Proofs in Logic, Intensive Exam Preparation&lt;/p&gt;
+&lt;p&gt;In Programming, we built a calculator using functions and conditionals. Sounds simple, but debugging took a lot of time — wrong types, misplaced lines, you name it.&lt;/p&gt;
+&lt;p&gt;In Logic, we had our first serious test on transforming logical formulas. I messed up the first part a bit but reviewed my mistakes and passed the retake with an excellent score.&lt;/p&gt;
+&lt;p&gt;In Math Analysis, we’re actively preparing for the final assessment. We revisited all the differentiation rules and worked through combined problems. Studying in mini-groups and explaining to each other really helps.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⏳ Realized that consistent effort works better than cramming. Time to rethink my study approach.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 3</title>
+      <link>https://hamza-ru.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3--june-3-to-june-9&#34;&gt;📗 Week 3 — June 3 to June 9&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Derivatives of Composite Functions, Propositional Logic, Loops and Functions in Python&lt;/p&gt;
+&lt;p&gt;In Programming, we started writing functions, learning about arguments and return values. I especially enjoyed the assignment where we implemented a recursive factorial function.&lt;/p&gt;
+&lt;p&gt;In Logic, we moved on to propositional logic and began simplifying expressions using logical laws. It&amp;rsquo;s fascinating how everything can be formalized into basic building blocks.&lt;/p&gt;
+&lt;p&gt;Mathematical Analysis was rewarding — we learned how to find derivatives of composite functions using the chain rule. There were a lot of tasks, but things are starting to make more sense.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;✅ Successfully passed the first logic quiz — 9/10. The key is not to rush and double-check every step.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://hamza-ru.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2--may-27-to-june-2&#34;&gt;📘 Week 2 — May 27 to June 2&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Functions and Derivatives, Logical Operations and Truth Tables&lt;/p&gt;
+&lt;p&gt;We continued studying derivatives, focusing on differentiation rules and common mistakes. It&amp;rsquo;s surprising how much precision of wording matters in mathematical analysis.&lt;/p&gt;
+&lt;p&gt;In Mathematical Logic, we learned the basic logical connectors: implication, disjunction, and negation. We practiced building truth tables and proving logical equivalence.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🧠 The hardest part was not mixing up “if-then” and “only if.” Logic really does feel like a programming language.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://hamza-ru.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1--may-20-to-may-26&#34;&gt;📚 Week 1 — May 20 to May 26&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Introduction to Programming, Basics of Mathematical Analysis&lt;/p&gt;
+&lt;p&gt;This week marked the beginning of serious classes. In Programming, we covered the basics of Python syntax — variables, conditionals, and loops. In practice, we wrote simple scripts and trained step-by-step code analysis skills.&lt;/p&gt;
+&lt;p&gt;In Mathematical Analysis, we got introduced to limits and the definition of the derivative. It was challenging but fascinating — the instructor showed how the theory connects to real-world problems in physics.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📌 Takeaway: without repetition, nothing sticks. I’ve started taking regular notes and solving extra problems.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

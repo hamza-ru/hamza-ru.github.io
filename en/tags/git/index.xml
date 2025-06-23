@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Hamza</title>
+    <link>https://hamza-ru.github.io/en/tags/git/</link>
+      <atom:link href="https://hamza-ru.github.io/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamza-ru.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Git</title>
+      <link>https://hamza-ru.github.io/en/tags/git/</link>
+    </image>
+    
+    <item>
+      <title>Version Control – Why You Need Git and How It Helps in Study and Work</title>
+      <link>https://hamza-ru.github.io/en/publication/01/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-version-control&#34;&gt;🔁 What is Version Control?&lt;/h2&gt;
+&lt;p&gt;Version control is a method of tracking and managing changes to project files. It’s especially important when multiple people are working on the same code or when you want to keep a history of changes you can go back to.&lt;/p&gt;
+&lt;p&gt;A version control system allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;keep a history of project development;&lt;/li&gt;
+&lt;li&gt;see who changed what;&lt;/li&gt;
+&lt;li&gt;revert to a previous version if something goes wrong;&lt;/li&gt;
+&lt;li&gt;work on different tasks in parallel;&lt;/li&gt;
+&lt;li&gt;merge changes into a unified version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-git&#34;&gt;🧰 Why Git?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; is the most popular version control system. It’s used in companies, academic research, software development, and even for writing theses.&lt;/p&gt;
+&lt;p&gt;Advantages of Git:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fully &lt;strong&gt;distributed&lt;/strong&gt; system (changes are stored locally);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;high speed&lt;/strong&gt;, even on large projects;&lt;/li&gt;
+&lt;li&gt;the ability to work &lt;strong&gt;offline&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;flexible &lt;strong&gt;branching system&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;reliability and &lt;strong&gt;control over every project version&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-git-used&#34;&gt;💡 Where is Git used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📦 In software development&lt;/li&gt;
+&lt;li&gt;🧪 In scientific research (for code, LaTeX documents, data)&lt;/li&gt;
+&lt;li&gt;🧑‍🏫 In academic projects and student teamwork&lt;/li&gt;
+&lt;li&gt;📝 When writing theses, coursework, and technical documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-branching-and-merging-how-to-collaborate&#34;&gt;🌳 Branching and Merging: How to Collaborate&lt;/h2&gt;
+&lt;p&gt;Git allows you to create &lt;strong&gt;branches&lt;/strong&gt; — separate lines of development where changes can be made without affecting the main version. When the work is complete, the branch can be &lt;strong&gt;merged&lt;/strong&gt; into the main one.&lt;/p&gt;
+&lt;p&gt;Example: you and your classmate are working on the same app. They build the interface, and you write the logic. Each of you has a branch. After testing — you merge.&lt;/p&gt;
+&lt;p&gt;This approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reduces conflicts;&lt;/li&gt;
+&lt;li&gt;allows testing of ideas safely;&lt;/li&gt;
+&lt;li&gt;improves code quality and stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-git-tips-for-beginners&#34;&gt;🧠 Git Tips for Beginners&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Always &lt;strong&gt;write meaningful commit messages&lt;/strong&gt; (explain what changed)&lt;/li&gt;
+&lt;li&gt;Make &lt;strong&gt;frequent commits&lt;/strong&gt; — it’s easier to roll back&lt;/li&gt;
+&lt;li&gt;Use a &lt;strong&gt;.gitignore&lt;/strong&gt; file to avoid cluttering the repo with unnecessary files&lt;/li&gt;
+&lt;li&gt;Don’t be afraid to &lt;strong&gt;break something&lt;/strong&gt; — everything can be restored&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Knowing Git isn’t just a technical skill — it’s part of modern digital culture. It saves time, prevents data loss, and keeps your work organized. Mastering Git opens the door to team projects, open-source contributions, professional development, and research collaboration.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Even if you&amp;rsquo;re working solo — Git is your best teammate.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

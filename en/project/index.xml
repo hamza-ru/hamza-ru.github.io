@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hamza</title>
+    <link>https://hamza-ru.github.io/en/project/</link>
+      <atom:link href="https://hamza-ru.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamza-ru.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://hamza-ru.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://hamza-ru.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-does-a-researcher-need-a-personal-website&#34;&gt;🧑‍🔬 Why does a researcher need a personal website?&lt;/h2&gt;
+&lt;p&gt;In today&amp;rsquo;s academic world, having a personal website is becoming as essential as publishing papers or attending conferences. It&amp;rsquo;s not just a &amp;ldquo;business card&amp;rdquo; — it&amp;rsquo;s a tool that allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;showcase your research interests and achievements;&lt;/li&gt;
+&lt;li&gt;collect your publications, projects, talks, and presentations;&lt;/li&gt;
+&lt;li&gt;share teaching materials and course content;&lt;/li&gt;
+&lt;li&gt;establish connections with colleagues and potential collaborators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Moreover, a website helps you build a &lt;strong&gt;digital academic identity&lt;/strong&gt;, especially if you&amp;rsquo;re just starting your research career.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-hugo-and-the-academic-theme&#34;&gt;🌐 Why choose Hugo and the Academic theme?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a fast and modern static site generator that doesn’t require a server or CMS. The &lt;strong&gt;Academic&lt;/strong&gt; theme (now Wowchemy) is specifically designed for researchers, students, educators, and scientists.&lt;/p&gt;
+&lt;p&gt;Key advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;minimal technical setup (can even be hosted for free on GitHub Pages);&lt;/li&gt;
+&lt;li&gt;structure tailored to academic needs: publications, teaching, blog posts, projects, CV;&lt;/li&gt;
+&lt;li&gt;seamless integration with ORCID, Google Scholar, GitHub, YouTube, and other platforms;&lt;/li&gt;
+&lt;li&gt;multilingual support, LaTeX math, citations, and DOI linking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-include-on-your-site&#34;&gt;🛠 What can you include on your site?&lt;/h2&gt;
+&lt;p&gt;A typical research portfolio site might include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📜 &lt;strong&gt;Publications&lt;/strong&gt; — journal articles, conference papers, preprints&lt;/li&gt;
+&lt;li&gt;🏫 &lt;strong&gt;Teaching&lt;/strong&gt; — course descriptions, lecture notes, handouts&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;Projects&lt;/strong&gt; — research initiatives, grants, collaborations&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;Resume&lt;/strong&gt; — downloadable academic CV in PDF format&lt;/li&gt;
+&lt;li&gt;📬 &lt;strong&gt;Contact&lt;/strong&gt; — email, messaging platforms, social media links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also maintain a blog about your research, methodology tips, literature reviews, or conference experiences.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-who-benefits-the-most&#34;&gt;💡 Who benefits the most?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Students and grad applicants&lt;/strong&gt; — to organize achievements and stand out in applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Early-career researchers&lt;/strong&gt; — to showcase research topics, attract collaborators, and build a reputation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;University lecturers&lt;/strong&gt; — as a centralized archive for course materials and academic resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧭 Conclusion&lt;/h2&gt;
+&lt;p&gt;Building a website with Hugo and the Academic theme is a step toward open, transparent, and tech-savvy science. This kind of site works for you 24/7: it shares your research, projects, and interests with the world and helps grow your academic network.&lt;/p&gt;
+&lt;p&gt;A personal website is more than a presentation — it&amp;rsquo;s your &lt;strong&gt;scientific platform&lt;/strong&gt;. And you can start building it today.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

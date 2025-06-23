@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation | Hamza</title>
+    <link>https://hamza-ru.github.io/en/tags/documentation/</link>
+      <atom:link href="https://hamza-ru.github.io/en/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Documentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamza-ru.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Documentation</title>
+      <link>https://hamza-ru.github.io/en/tags/documentation/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Markup Language</title>
+      <link>https://hamza-ru.github.io/en/publication/02/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamza-ru.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-is-markdown&#34;&gt;📝 What is Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language designed to let you write structured text with minimal effort. Its main idea is to keep the raw text readable while allowing easy conversion to HTML or PDF.&lt;/p&gt;
+&lt;p&gt;Markdown is widely used in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;project documentation&lt;/li&gt;
+&lt;li&gt;blogs and technical articles&lt;/li&gt;
+&lt;li&gt;GitHub README files&lt;/li&gt;
+&lt;li&gt;notes and lecture outlines&lt;/li&gt;
+&lt;li&gt;content management systems and academic platforms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-should-you-learn-markdown&#34;&gt;✅ Why should you learn Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is especially useful for students, researchers, and developers. Here’s why:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity&lt;/strong&gt; — no need to learn complex tags; it’s intuitive&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Readability&lt;/strong&gt; — even without rendering, the text looks clean&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt; — supports lists, tables, images, and links&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compatibility&lt;/strong&gt; — works with GitHub, Jupyter, Hugo, Obsidian, and other popular tools&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version control friendly&lt;/strong&gt; — ideal for use with Git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-do-with-markdown&#34;&gt;🔧 What can you do with Markdown?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create headings&lt;/strong&gt; of different levels&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make lists&lt;/strong&gt;: ordered and unordered&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Format text&lt;/strong&gt; — bold, italic, &lt;del&gt;strikethrough&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Insert images and links&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Add tables and blockquotes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Include code blocks and inline commands&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All this — without complex editors, just a &lt;code&gt;.md&lt;/code&gt; text file.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-is-markdown-useful-for-students&#34;&gt;👨‍🎓 How is Markdown useful for students?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparing &lt;strong&gt;study notes and cheat sheets&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Writing &lt;strong&gt;lab reports and assignments&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Creating &lt;strong&gt;presentations and website posts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Maintaining an &lt;strong&gt;academic portfolio&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Running a &lt;strong&gt;study blog or course notes archive&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Markdown is more than just a tool — it&amp;rsquo;s a fundamental digital literacy skill. You can learn it in a couple of hours and use it for years. It makes your writing clear, portable, and easy to manage.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Markdown — minimalism that works.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
